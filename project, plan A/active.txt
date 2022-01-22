@@ -1,0 +1,6 @@
+Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process -Force
+
+.\vm_venv\Scripts\activate
+.\exm_venv\Scripts\activate
+
+'C:\Program Files\python.exe'
